@@ -3,7 +3,7 @@ Full-stack developer specializing in .NET 8 APIs and React (TypeScript).<br>Stro
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adrián Piedra Sanchez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianpiedrasan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-piedra-sanchez-070179318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianpiedrasan@gmail.com) 
 
 # 💻 Tech Stack:
 
